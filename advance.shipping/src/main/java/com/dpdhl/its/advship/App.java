@@ -1,5 +1,7 @@
 package com.dpdhl.its.advship;
 
+import com.dpdhl.dhl.shipments.*;
+
 /**
  * Hello world!
  *
